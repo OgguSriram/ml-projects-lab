@@ -1,0 +1,15 @@
+Found 624 images belonging to 2 classes.
+20/20 ━━━━━━━━━━━━━━━━━━━━ 4s 190ms/step
+Confusion Matrix:
+[[118 116]
+ [  7 383]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+      NORMAL       0.94      0.50      0.66       234
+   PNEUMONIA       0.77      0.98      0.86       390
+
+    accuracy                           0.80       624
+   macro avg       0.86      0.74      0.76       624
+weighted avg       0.83      0.80      0.79       624

@@ -1,0 +1,1 @@
+PREDICTION: PNEUMONIA (1.00 confidence)
