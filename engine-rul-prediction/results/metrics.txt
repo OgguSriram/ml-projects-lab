@@ -1,0 +1,14 @@
+Baseline Linear Regression:
+MAE  : 25.16 cycles
+RMSE : 31.66 cycles
+R²   : 0.768
+
+Random Forest (no FE):
+MAE  : 24.01 cycles
+RMSE : 31.70 cycles
+R²   : 0.767
+
+Random Forest + Feature Engineering:
+MAE  : 2.10 cycles
+RMSE : 5.18 cycles
+R²   : 0.994
