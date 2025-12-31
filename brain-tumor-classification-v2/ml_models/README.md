@@ -34,4 +34,5 @@ GitHub file size limitations.
 - **Best epoch:** 20
 - **Validation accuracy:** ~79%
 - **Test accuracy:** ~79%
-- **Model filename (local):**
+- **brain_tumor_resnet50_final.keras**
+
